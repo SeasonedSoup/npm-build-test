@@ -1,0 +1,47 @@
+
+
+.dropdown {
+    position: relative;
+ 
+}
+
+.drop-btn {
+    cursor: pointer;
+    font-size: 12px;
+    padding: 12px;
+    background-color: royalblue;
+    color: white;
+    border-radius: 12px;
+    border: none;
+    min-width: 100px;
+}
+
+.drop-btn:hover {
+    background-color: royalblue;
+    opacity: 0.8;
+}
+
+.dropdown-content {
+    display: none;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, .2);
+    background-color: whitesmoke;
+    position: absolute;
+    min-width: 100px;
+}
+
+.dropdown-content.open {
+
+    display: block;
+}
+
+.dropdown-content a {
+    display: block;
+    float: none;
+    text-decoration: none;
+    color: black;
+    padding: 12px 16px;
+}
+
+/* eja102506* pass for npm 
+   user is seasonedsoup
+*/
