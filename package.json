@@ -1,0 +1,19 @@
+{
+  "name": "dropdown",
+  "version": "1.0.0",
+  "description": "create cool dropdowns",
+  "main": "script.js",
+  "scripts": {
+    "test": "npm dropdown"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeasonedSoup/npm-build-test.git"
+  },
+  "author": "SeasonedSoup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeasonedSoup/npm-build-test/issues"
+  },
+  "homepage": "https://github.com/SeasonedSoup/npm-build-test#readme"
+}
